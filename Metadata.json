@@ -1,0 +1,20 @@
+{
+    "Author": "jeffbow",
+    "ContentSize": 2412,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/backup-vms-in-all-cloud-services-using-azure-automation/master/Backup-AllCloudServices.ps1",
+    "DownloadCount": 1027,
+    "Id": "Backup-VMs-in-all-Cloud-30d7db19",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 305,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-2-4T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook gets the names of all Cloud Services in a Subscription and calls the Backup-AzureCloudServiceVMs runbook for each Cloud Service.  You must first download this companion runbook from the gallery before using this runbook.",
+    "Title": "Backup VMs in all Cloud Services using Azure Automation",
+    "UpdatedDate": "2015-2-4T00:00:00",
+    "Url": "https://github.com/azureautomation/backup-vms-in-all-cloud-services-using-azure-automation",
+    "UserTags": "backup"
+}
